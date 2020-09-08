@@ -19,8 +19,8 @@ Webpage accesebility and performance was increased implementing accepted criteri
 * wikipedia.org
 
 ## Contributing:
-* Ion Gavrilita
-* gavrilita.ion.93@gmail.com
+* Name: Ion Gavrilita
+* Email: gavrilita.ion.93@gmail.com
 * Github profile: https://github.com/IonGavrilita
 
 ### Directory:
