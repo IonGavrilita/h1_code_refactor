@@ -21,7 +21,7 @@ Webpage accesebility and performance was increased implementing accepted criteri
 ## Contributing:
 * Ion Gavrilita
 * gavrilita.ion.93@gmail.com
-* Github progile: IonGavrilita
+* Github profile: https://github.com/IonGavrilita
 
 ### Directory:
 * Website: https://iongavrilita.github.io/homework1/
