@@ -2,10 +2,10 @@
 Webpage accesebility and performance was increased implementing accepted criteria standarts that was given in the task. The Webpage follow semantic structure of HTML and CSS elements and including comments of major changes in the structure. The code was cleaned and the classes was combined for better performance and semantic structure.
 
 ## Changelog index.html:
-* added meta name 
-* entire body was devided in 5 semantic elements 
-* added alt attribute to all images
-* canceled classes
+* Added meta name 
+* Entire body was devided in 5 semantic elements 
+* Added alt attribute to all images
+* Canceled classes
 
 ## Changelog style.css:
 * Combined the classes with the same attribute
@@ -23,6 +23,6 @@ Webpage accesebility and performance was increased implementing accepted criteri
 * Email: gavrilita.ion.93@gmail.com
 * Github profile: https://github.com/IonGavrilita
 
-### Directory:
+## Directory:
 * Website: https://iongavrilita.github.io/homework1/
 * Source: https://github.com/IonGavrilita/homework1
